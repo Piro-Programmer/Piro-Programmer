@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently solving DSA questions
 - 💞️ I’m looking to collaborate on various web dev projects
-- 📫 Reach me at himanshu24059@gmail.com 
+- 📫 Reach me at himanshu.work.2325@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
