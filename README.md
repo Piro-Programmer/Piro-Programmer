@@ -12,7 +12,7 @@ I focus on clean UI, optimized APIs, and user-first design.
 💻 **Frontend:** React.js, Next.js, HTML5, CSS3, TailwindCSS  
 🛠️ **Backend:** Node.js, Express.js, REST APIs, JWT Auth  
 🗃️ **Databases:** PostgreSQL, MongoDB, SQL  
-⚙️ **Tools:** Git, GitHub, Postman, Vercel, Render, Agile/Scrum  
+⚙️ **Tools:** Git, GitHub, Postman, Vercel  
 
 ---
 
