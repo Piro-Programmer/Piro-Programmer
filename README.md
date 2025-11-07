@@ -2,7 +2,7 @@
 
 🚀 **MERN / PERN Stack Developer | React.js Enthusiast | Open Source Contributor**
 
-I'm a passionate **Full Stack Developer** who loves building scalable, high-performance web apps using **React.js**, **Node.js**, **Express.js**, **PostgreSQL**, and **MongoDB**.  
+I'm a passionate **Frontend Developer** who loves building scalable, high-performance web apps using **React.js**, **Node.js**, **Express.js**, **PostgreSQL**, and **MongoDB**.  
 I focus on clean UI, optimized APIs, and user-first design.
 
 ---
