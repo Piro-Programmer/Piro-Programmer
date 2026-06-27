@@ -1,6 +1,6 @@
 <!-- ===== ANIMATED HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Himanshu+Yadav+%F0%9F%91%8B;Full-Stack+Engineer;I+ship+production+apps+from+scratch" alt="Himanshu Yadav" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Himanshu+Yadav+%F0%9F%91%8B;Full-Stack+Engineer;I+ship+production+apps+from+scratch;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+PostgreSQL" alt="Himanshu Yadav" />
 </p>
 
 <p align="center">
@@ -92,6 +92,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piro-Programmer&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ### 📫 Let's Connect
