@@ -1,6 +1,7 @@
+<img width="623" height="50" alt="image" src="https://github.com/user-attachments/assets/38606a91-48fe-4d98-ba58-05d309806775" />
 <!-- ===== ANIMATED HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Himanshu+Yadav+%F0%9F%91%8B;Full-Stack+Engineer;I+ship+production+apps+from+scratch;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+PostgreSQL" alt="Himanshu Yadav" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Himanshu+Yadav+%F0%9F%91%8B;Full-Stack+Engineer;I+ship+production+apps+from+scratch;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+PostgreSQL" alt="Himanshu Yadav" />
 </p>
 
 <p align="center">
