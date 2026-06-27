@@ -1,67 +1,114 @@
-# 👋 Hey there, I'm Himanshu Yadav!  
-
-🚀 **Frontend Developer | React.js Enthusiast | Open Source Contributor**
-
-I'm a passionate **Frontend Developer** who loves building scalable, high-performance web apps using **React.js**, **Node.js**, **Express.js**, **PostgreSQL**, and **MongoDB**.  
-I focus on clean UI, optimized APIs, and user-first design.
-
----
-
-### 🧠 Tech Stack & Tools
-
-💻 **Frontend:** React.js, HTML5, CSS3, TailwindCSS  
-🛠️ **Backend:** Node.js, Express.js, REST APIs, JWT Auth  
-🗃️ **Databases:** PostgreSQL, MongoDB, SQL  
-⚙️ **Tools:** Git, GitHub, Postman, Vercel  
-
----
-
-### 🔥 Featured Projects
-
-🌐 [**AI Resume Analyzer**](https://ai-resume-anlyzer-himanshu-2k25.vercel.app/)  
-Full-stack AI-powered ATS resume analyzer using React + Node.js + Puter.js + Claude AI.
-
-🔐 [**Password Manager (MERN + PostgreSQL)**](https://pswd-mngr-react.vercel.app/)  
-End-to-end encrypted password manager with JWT authentication and responsive UI.
-
-💬 [**Chat App (Realtime)**](#) *(Coming Soon)*  
-Realtime messaging app built using Socket.io and MongoDB.
-
----
-
-### 📊 GitHub Stats & Activity
-
-  ### C++  
-**Proficiency:** ▉▉▉▉▉▉▉▉▍ 
+<h1 align="center">Hi, I'm Himanshu 👋</h1>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Piro-Programmer&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piro-Programmer&theme=react&hide_border=true" />
+  <b>Full-Stack Engineer</b> · I ship production web apps end-to-end — from database schema to pixel-perfect UI to cloud deploy.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piro-Programmer&layout=compact&theme=react&hide_border=true" />
+  <a href="mailto:himanshu.work.2325@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/himanshuyadavwork/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Piro-Programmer&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 </p>
 
 ---
 
-### 🌱 What I’m Currently Learning
-- TypeScript & Next.js  
-- System Design for Scalable Web Apps  
-- Integrating AI APIs in MERN stack  
+### 👨‍💻 About Me
+
+I build **complete, production-grade web applications from scratch** — not tutorials, not clones. I own the full lifecycle: data modeling, API design, authentication, state management, responsive UI, SEO, security, and cloud deployment. I care about clean architecture, performance, and shipping things real businesses actually use.
+
+- 🔭 Currently building real B2B commerce platforms on the **latest** Next.js + React stack
+- 🤖 Exploring the frontier of **Agentic Commerce** — making web apps natively consumable by AI agents (MCP, `llms.txt`, OpenAPI discovery)
+- 🌱 Deep in TypeScript, server-side rendering, Postgres, and cloud infra
+- 💬 Open to **full-stack / frontend engineering opportunities** — let's talk
 
 ---
 
-### 🤝 Let’s Connect!
+### 🛠️ Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+
+**Backend & Data**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_(jose)-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Cloud & Tooling**
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+
+---
+
+### 🚀 Featured Project — Metplast
+
+> **A full-fledged B2B e-commerce platform built entirely from scratch** for a plastics & piping manufacturer — storefront, customer accounts, admin dashboard, and a complete order pipeline. Production-deployed and serving real customers.
+
+**Built with:** Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4 · shadcn/ui · PostgreSQL · Sequelize · Cloudflare R2 · Railway
+
+#### What's inside
+
+🛒 **Customer Storefront**
+- Server-rendered product catalog with category filtering & live search
+- Cart with persisted state (Zustand) and a frictionless WhatsApp + PDF checkout flow
+- **Phone + OTP** customer authentication and a self-serve account / order-history area
+- MDX-powered blog with content negotiation
+
+🧑‍💼 **Admin Dashboard**
+- Secure JWT-authenticated admin panel (bcrypt-hashed credentials)
+- Full product CRUD with **Cloudflare R2** image uploads (cloud object storage)
+- Order management pipeline with status stages and an **append-only notes history**
+- Data tables powered by TanStack Table, stats dashboard
+
+📄 **Order Engine**
+- Auto-generated **Purchase Order PDFs** (pdf-lib) customers can download or send over WhatsApp
+- Relational data model: Products → Orders → Order Items, with real SQL migrations
+
+🤖 **Agentic Commerce (the cutting-edge part)**
+- A **Model Context Protocol (MCP) server** exposing the catalog as tools AI agents can call
+- `llms.txt`, `llms-full.txt`, `openapi.json` and dedicated **agent-discovery endpoints** so LLMs and autonomous agents can find and shop the catalog
+- Markdown content negotiation — every product & blog page is machine-readable
+
+🔒 **Production hardening & SEO**
+- Content-Security-Policy + COOP/CORP security headers, request rate limiting
+- JSON-LD structured data, dynamic sitemap & robots, Google Search Console verified
+- Deployed on Railway with managed PostgreSQL and CI via GitHub PR workflow
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:himanshu.work.2325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/himanshu-rao-work-2k25/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/QZXGZ2D1Kd/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-  <a href="https://github.com/Piro-Programmer"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Piro-Programmer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piro-Programmer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piro-Programmer&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-⭐ *“Code is like humor — when you have to explain it, it’s bad.”*  
-💡 *Always exploring, learning, and building something new.*
+### 📫 Let's Connect
+
+I'm actively open to **full-stack and frontend engineering roles**. If you're a recruiter, hiring manager, or fellow engineer who likes what you see — reach out, I'd love to chat.
+
+<p align="center">
+  <a href="mailto:himanshu.work.2325@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/himanshuyadavwork/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center"><i>⭐️ Thanks for visiting — feel free to explore my pinned repositories!</i></p>
